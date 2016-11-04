@@ -1,3 +1,23 @@
+# Based on html5 + css3 response-style page layout
+========================================
+
+1. Pre-project knowledge:
+    * Project did not use bootstrap, using the original basis of the way, so developers need a solid foundation
+    * Html5 and css3 master
+    * Javascript solid foundation, including the use of jquery
+    Familiar with responsive layout principles
+    * Familiar with pc-side and mobile-side debugging
+    * Familiar with gulp principle
+
+2. Project Front End Construction:
+    * Use html5 new tags to build the page frame
+    * Use css3 style preprocessing
+    * If you master the compass and sass, can also be used to manage the style code, the part of the project branch to achieve
+    * Use OwlCarousel2.js plug-in to achieve ad rotation effect
+    * Response to the realization of advertising images, where some pit need to step on
+    * Use npm's brower-sync to achieve multi-browser-side page compatibility debugging.
+    * Gulp package and release code
+
 #基于html5+css3的响应式页面布局
 ========================================
 
